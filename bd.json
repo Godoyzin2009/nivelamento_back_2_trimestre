@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "guilherme godoy",
+    "cpf": "123.456.789-10",
+    "cep": "80020-010",
+    "nascimento": "1992-03-10",
+    "rua": "Rua o brasil para cristo",
+    "numero": "1229",
+    "bairro": "chapada",
+    "cidade": "ponta grossa",
+    "uf": "PR",
+    "email": "g123@gmail.com",
+    "celular": "(42) 99888-8888",
+    "senha": "13242026"
+  },
+  {
+    "nome": "Antonio wesley",
+    "cpf": "987.654.321-01",
+    "cep": "80240-100",
+    "nascimento": "1997-07-19",
+    "rua": "waldomiro olenik ",
+    "numero": "3100",
+    "bairro": "contorno",
+    "cidade": "ponta grossa",
+    "uf": "PR",
+    "email": "awpds@email.com",
+    "celular": "(42) 99999-3344",
+    "senha": "Senha12"
+  },
+  {
+    "nome": "pedro nathan neris ott",
+    "cpf": "456.123.789-22",
+    "cep": "80530-000",
+    "nascimento": "1989-12-05",
+    "rua": "Rua clorosvaldo pinto",
+    "numero": "1250",
+    "bairro": "nova russia",
+    "cidade": "ponta grossa",
+    "uf": "PR",
+    "email": "pnno@email.com",
+    "celular": "(42) 99666-6767",
+    "senha": "minhasenha19"
+  },
+  {
+    "nome": "natasha alexandra",
+    "cpf": "321.654.987-33",
+    "cep": "82510-000",
+    "nascimento": "2002-02-14",
+    "rua": "vicente machado",
+    "numero": "580",
+    "bairro": "centro",
+    "cidade": "ponta grossa",
+    "uf": "PR",
+    "email": "namds@email.com",
+    "celular": "(42) 99888-1122",
+    "senha": "minhasenha20"
+  },
+  {
+    "nome": "kayke ramos",
+    "cpf": "676.767.676.10",
+    "cep": "80020-010",
+    "nascimento": "1992-03-10",
+    "rua": "Rua santo mauro",
+    "numero": "2555",
+    "bairro": "santaluzia",
+    "cidade": "ponta grossa",
+    "uf": "PR",
+    "email": "krs@gmail.com",
+    "celular": "(42) 93223-9999",
+    "senha": "minhasenha59"
+  }
+]
